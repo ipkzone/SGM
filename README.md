@@ -7,7 +7,8 @@ Fiture Tools SGM
 - [x] Registrasi account
 - [x] Tukar Point
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20SGM.3%20dong.).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20SGM.3%20dong.)<br>
+Alarm Vocher Gopay SGM [Join Us](https://t.me/+m_4_X9xqj-RmODE1)<br>
 
 # Note
 The script runs with the license key,
