@@ -9,7 +9,7 @@ Fiture Tools SGM
 - [x] Voucher Alarm
 - [x] Auto Claim Voucher
 
-- Tutorial
+# Tutorial
    - Editing file data_login.txt input your account
    - Editing file alarm_login.txt input your single account for running alarm voucher
    - Editing file config.json
