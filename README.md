@@ -1,13 +1,13 @@
 # SGM
-SGM Generasi Maju Tools
+SGM Generasi Maju New Version Bypass Anunya
 
 <center><img src="new.png" alt="tools"></center>
 
 Fiture Tools SGM
 - [x] Registrasi account
-- [x] Tukar Point
-- [x] Voucher Alarm
-- [x] Auto Claim Voucher
+- [x] Claim Reward
+- [x] Checking Reward & Stock
+- [x] Sumbit Code Unik 
 
 # Tutorial
    - Editing file data_login.txt input your account
@@ -20,6 +20,7 @@ Fiture Tools SGM
      - Change Number id Voucher
 
 - Please read file note.txt
+- silahkan japri aja ke whatsapp jika anda minat ya.
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20SGM.3%20dong.)<br>
 Alarm Vocher Gopay SGM [Join Us](https://t.me/+m_4_X9xqj-RmODE1)<br>
