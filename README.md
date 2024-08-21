@@ -1,17 +1,18 @@
 # SGM
 SGM Generasi Maju New Version Bypass Anunya
 
-<center><img src="new.png" alt="tools"></center>
+<center><img src="sgms.png" alt="tools"></center>
 
-Fiture Tools SGM
+Fiture Tools SGM Version 2.1
 - [x] Registrasi account
+    - [ ] Auto update profile
+    - [ ] Auto add data children ( Data Anak ) 
 - [x] Claim Reward
 - [x] Checking Reward & Stock
 - [x] Sumbit Code Unik 
 
 # Tutorial
    - Editing file data_login.txt input your account
-   - Editing file alarm_login.txt input your single account for running alarm voucher
    - Editing file config.json
      - Change Licensikey
      - Change Refferal code
